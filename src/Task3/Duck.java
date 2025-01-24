@@ -1,3 +1,5 @@
+package Task3;
+
 public class Duck extends Animal implements Fly, Swim, Run {
     @Override
     public String getName() {
