@@ -1,3 +1,5 @@
+package Task4;
+
 public class Athlete extends Person {
     public Athlete(String name) {
         super(name);
