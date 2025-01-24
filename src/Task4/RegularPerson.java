@@ -1,3 +1,5 @@
+package Task4;
+
 public class RegularPerson extends Person {
     public RegularPerson(String name) {
         super(name);
