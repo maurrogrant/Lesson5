@@ -1,3 +1,5 @@
+package Task4;
+
 public abstract class Person implements Run, Swim {
     private String name;
 
