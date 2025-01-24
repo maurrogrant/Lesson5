@@ -1,3 +1,5 @@
+package Task3;
+
 public class Parrot extends Animal implements Fly {
     @Override
     public String getName() {
