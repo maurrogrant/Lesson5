@@ -1,3 +1,5 @@
+package Task1;
+
 public enum Drink {
     COKE("Кока-Кола", 50, 10),
     PEPSI("Пепси", 45, 5),
