@@ -1,3 +1,5 @@
+package Task3;
+
 public class Cat extends Animal implements Run {
     @Override
     public String getName() {
